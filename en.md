@@ -1,5 +1,5 @@
 # Welcome user!
-**IdealYaw** is the best script on Weave. Our ** team** has been developing the script for about a year. During this time, we have achieved incredible results. Below you can see reports and news on the project, as well as all the necessary information.
+**IdealYaw** is the best script on Weave. Our **team** has been developing the script for about a year. During this time, we have achieved incredible results. Below you can see reports and news on the project, as well as all the necessary information.
 
 ## Beginning
 The project began its existence in 2022. From the very beginning, he gained high popularity.
@@ -17,9 +17,9 @@ We are very well versed in the Weave API, which makes it easy to use the script.
 
 ## Price
 The price of our script has always been available to everyone.
-Now it is *149* ** !!!** for the *STABLE* version and *459* ** !!!** for the *BETA* version.
+Now it is *149* **!!!** for the *STABLE* version and *459* **!!!** for the *BETA* version.
 What is **!!!**? This is a unique currency that is valid only on the official website.
-But you can also pay for the script via QIWI/To do this, go to our ** discord server**!
+But you can also pay for the script via QIWI, to do this, go to our **discord server**!
 
 ## What is the difference between STABLE and BETA versions?
 In BETA, script updates come out faster than in the release version, but this may cause bugs.
